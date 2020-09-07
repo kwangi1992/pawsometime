@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>82357502051-iijpikpndov2ene56jn06k1snf238f2j.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.82357502051-iijpikpndov2ene56jn06k1snf238f2j</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDFyHm4Ec_SRgbr79zhzOJeFvf5L03Q5RQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>82357502051</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.final-project.Pawsome-Time</string>
+	<key>PROJECT_ID</key>
+	<string>pawsome-time</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pawsome-time.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:82357502051:ios:48d7a90c1b2d78223d3856</string>
+	<key>DATABASE_URL</key>
+	<string>https://pawsome-time.firebaseio.com</string>
+</dict>
+</plist>
