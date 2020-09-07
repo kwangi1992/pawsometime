@@ -32,7 +32,7 @@ Event information can also be held in the database
 Home page can lead to the main 3 pages: profile, events, and map
 You can create an event or view specific events from the events page
 You can view specific events or view specific location page from the maps page
-SzLL0YO_FYj-r0u4vMfBR25jAmEon_6BWd8ZAIkFdqlm4WSJNUud6ZLQkoEhtCI2cTsEpcjvDgT1b9WU1f-RokxHsp91Y8w45JP6jESg6ZoWYn--HXXfYiYHzQsqMAACKsQfyfBzelQ.jpg
+![](imageReadMD/SzLL0YO_FYj-r0u4vMfBR25jAmEon_6BWd8ZAIkFdqlm4WSJNUud6ZLQkoEhtCI2cTsEpcjvDgT1b9WU1f-RokxHsp91Y8w45JP6jESg6ZoWYn--HXXfYiYHzQsqMAACKsQfyfBzelQ.jpg)
 
 Mock-up screens and views
 
