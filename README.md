@@ -34,9 +34,6 @@ You can create an event or view specific events from the events page
 You can view specific events or view specific location page from the maps page
 ![](imageReadMD/SzLL0YO_FYj-r0u4vMfBR25jAmEon_6BWd8ZAIkFdqlm4WSJNUud6ZLQkoEhtCI2cTsEpcjvDgT1b9WU1f-RokxHsp91Y8w45JP6jESg6ZoWYn--HXXfYiYHzQsqMAACKsQfyfBzelQ.jpg)
 
-Mock-up screens and views
-
-view ppt for mockup screens/views
 
 
 Roles
@@ -58,6 +55,4 @@ View Events
 Create events, check-in/view events from events page
 
 
-Additional Features
 
-Friends List
